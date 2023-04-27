@@ -1,6 +1,8 @@
 #title{
     color: #fefae0;
     text-align: center;
+    display: flex;
+    justify-content: center;
     margin: 0px;
     padding: 100px;
     font-family: 'Yeseva One', cursive;
@@ -82,7 +84,7 @@ body{
 }
 @media (max-width:390px){
     #title{
-        font-size: 40px;
+        font-size: 45px;
       
     }
     .business{
